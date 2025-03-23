@@ -1,4 +1,4 @@
 # Wave Of Awarness 🌊
 
-### Website: https://waveofawarness.streamlit.app/
+### Website: https://waveofawareness.streamlit.app/
 
