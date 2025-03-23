@@ -11,7 +11,7 @@ A simple static web application that visualizes yearly trends of annual rainfall
 ## **Setup Instruction**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/viabledev/wave-of-awareness.githttps://github.com/viabledev/wave-of-awareness.git
+   git clone https://github.com/viabledev/wave-of-awareness.git
    ```
 2. **Run the app**
    ```bash
