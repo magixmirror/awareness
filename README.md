@@ -1,17 +1,17 @@
-# Wave Of Awarness 🌊
+# **Wave Of Awarness** 🌊
 
 A simple static web application that visualizes yearly trends of annual rainfall and leverages a machine learning model to predict potential water scarcity based on rainfall patterns. The project aims to provide insightful data visualization alongside predictive analytics to aid in water resource management.
 
-## Technologies Used
+## **Technologies Used**
 - **Front End:** Streamlit
 - **Backend:** Streamlit
 - **Visualization:** Matplotlib
 - **Machine Learning:** Scikit-Learn 
 
-## Setup Instruction
+## **Setup Instruction**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/viabledev/wave-of-awareness.git
+   git clone https://github.com/viabledev/wave-of-awareness.githttps://github.com/viabledev/wave-of-awareness.git
    ```
 2. **Run the app**
    ```bash
@@ -23,8 +23,8 @@ A simple static web application that visualizes yearly trends of annual rainfall
    ```bash
    streamlit run app.py
    ```
-## Folder Structure
-```bash
+## **Project Structure**
+```
 /wave-of-awareness
 ├── app.py             # Main webapp
 ├── model/              
