@@ -26,10 +26,11 @@ A simple static web application that visualizes yearly trends of annual rainfall
 ## Folder Structure
 ```bash
 /wave-of-awareness
-├── app.py              # Main webapp
+├── app.py             # Main webapp
 ├── model/              
     ├── model.py       # Training the model
-    ├── .pkl            # Weight File
+    ├── .pkl           # Weight File
+├── requirements.txt   # Dependencies File 
 └── README.md 
 ```
 
